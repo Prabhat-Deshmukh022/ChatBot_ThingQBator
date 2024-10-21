@@ -1,1 +1,1 @@
-export const DB_NAME = "Desired DB Name";
+export const DB_NAME = "Chatbot";
